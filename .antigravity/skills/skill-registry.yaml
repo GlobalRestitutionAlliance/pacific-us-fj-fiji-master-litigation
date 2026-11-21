@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: fijian-restitution-roadmap-and-qsf-trust-execution
-  name: Fijian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/fijian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_fj_001
+    name: Fiji Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_002
+    name: Fiji Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_003
+    name: Fiji Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_004
+    name: Fiji Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_005
+    name: Fiji Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_006
+    name: Fiji Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_007
+    name: Fiji Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_008
+    name: Fiji Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_009
+    name: Fiji Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_010
+    name: Fiji Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_011
+    name: Fiji Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_012
+    name: Fiji Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_013
+    name: Fiji Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_014
+    name: Fiji Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_015
+    name: Fiji Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_016
+    name: Fiji Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_017
+    name: Fiji Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_018
+    name: Fiji Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_019
+    name: Fiji Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_020
+    name: Fiji Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_021
+    name: Fiji Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_022
+    name: Fiji Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_023
+    name: Fiji Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_024
+    name: Fiji Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_025
+    name: Fiji Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_026
+    name: Fiji Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_027
+    name: Fiji Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_028
+    name: Fiji Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_029
+    name: Fiji Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_030
+    name: Fiji Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_031
+    name: Fiji Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_032
+    name: Fiji Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_033
+    name: Fiji Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_034
+    name: Fiji Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_035
+    name: Fiji Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_036
+    name: Fiji Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_037
+    name: Fiji Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_038
+    name: Fiji Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_039
+    name: Fiji Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_040
+    name: Fiji Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_041
+    name: Fiji Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_042
+    name: Fiji Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_043
+    name: Fiji Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_044
+    name: Fiji Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_045
+    name: Fiji Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_046
+    name: Fiji Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_047
+    name: Fiji Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_048
+    name: Fiji Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_049
+    name: Fiji Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_050
+    name: Fiji Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_051
+    name: Fiji Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_052
+    name: Fiji Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_053
+    name: Fiji Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_054
+    name: Fiji Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_055
+    name: Fiji Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_056
+    name: Fiji Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_057
+    name: Fiji Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_058
+    name: Fiji Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_059
+    name: Fiji Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_060
+    name: Fiji Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_061
+    name: Fiji Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_062
+    name: Fiji Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_063
+    name: Fiji Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_064
+    name: Fiji Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_065
+    name: Fiji Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_066
+    name: Fiji Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_067
+    name: Fiji Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_068
+    name: Fiji Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_069
+    name: Fiji Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_070
+    name: Fiji Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_071
+    name: Fiji Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_072
+    name: Fiji Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_073
+    name: Fiji Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_074
+    name: Fiji Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_075
+    name: Fiji Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_076
+    name: Fiji Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_077
+    name: Fiji Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_078
+    name: Fiji Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_079
+    name: Fiji Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_080
+    name: Fiji Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_081
+    name: Fiji Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_082
+    name: Fiji Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_083
+    name: Fiji Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_084
+    name: Fiji Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_085
+    name: Fiji Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_086
+    name: Fiji Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_087
+    name: Fiji Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_088
+    name: Fiji Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_089
+    name: Fiji Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_090
+    name: Fiji Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_091
+    name: Fiji Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_092
+    name: Fiji Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_093
+    name: Fiji Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_094
+    name: Fiji Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_095
+    name: Fiji Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_096
+    name: Fiji Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_097
+    name: Fiji Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_098
+    name: Fiji Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_099
+    name: Fiji Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_100
+    name: Fiji Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_101
+    name: Fiji Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_102
+    name: Fiji Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_103
+    name: Fiji Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_104
+    name: Fiji Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_105
+    name: Fiji Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_106
+    name: Fiji Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_107
+    name: Fiji Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_108
+    name: Fiji Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_109
+    name: Fiji Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_110
+    name: Fiji Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_111
+    name: Fiji Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_112
+    name: Fiji Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_113
+    name: Fiji Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_114
+    name: Fiji Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_115
+    name: Fiji Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_116
+    name: Fiji Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_117
+    name: Fiji Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_118
+    name: Fiji Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_119
+    name: Fiji Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_120
+    name: Fiji Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_121
+    name: Fiji Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_122
+    name: Fiji Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_123
+    name: Fiji Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_124
+    name: Fiji Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_125
+    name: Fiji Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_126
+    name: Fiji Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_127
+    name: Fiji Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_128
+    name: Fiji Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_129
+    name: Fiji Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_130
+    name: Fiji Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_131
+    name: Fiji Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_132
+    name: Fiji Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_133
+    name: Fiji Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_134
+    name: Fiji Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_135
+    name: Fiji Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_136
+    name: Fiji Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_137
+    name: Fiji Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_138
+    name: Fiji Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_139
+    name: Fiji Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_140
+    name: Fiji Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_141
+    name: Fiji Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_142
+    name: Fiji Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_143
+    name: Fiji Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_144
+    name: Fiji Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_145
+    name: Fiji Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_146
+    name: Fiji Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_147
+    name: Fiji Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_148
+    name: Fiji Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_149
+    name: Fiji Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_150
+    name: Fiji Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_151
+    name: Fiji Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_152
+    name: Fiji Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_153
+    name: Fiji Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_154
+    name: Fiji Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_155
+    name: Fiji Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_156
+    name: Fiji Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_157
+    name: Fiji Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_158
+    name: Fiji Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_159
+    name: Fiji Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_160
+    name: Fiji Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_161
+    name: Fiji Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_162
+    name: Fiji Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_163
+    name: Fiji Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_164
+    name: Fiji Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_165
+    name: Fiji Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_166
+    name: Fiji Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_167
+    name: Fiji Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_168
+    name: Fiji Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_169
+    name: Fiji Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_170
+    name: Fiji Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_171
+    name: Fiji Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_172
+    name: Fiji Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_173
+    name: Fiji Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_174
+    name: Fiji Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_175
+    name: Fiji Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_176
+    name: Fiji Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_177
+    name: Fiji Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_178
+    name: Fiji Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_179
+    name: Fiji Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_180
+    name: Fiji Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_181
+    name: Fiji Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_182
+    name: Fiji Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_183
+    name: Fiji Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_184
+    name: Fiji Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_185
+    name: Fiji Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_186
+    name: Fiji Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_187
+    name: Fiji Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_188
+    name: Fiji Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_189
+    name: Fiji Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_190
+    name: Fiji Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_191
+    name: Fiji Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_192
+    name: Fiji Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_193
+    name: Fiji Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_194
+    name: Fiji Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_195
+    name: Fiji Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_196
+    name: Fiji Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_197
+    name: Fiji Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_198
+    name: Fiji Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_199
+    name: Fiji Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_200
+    name: Fiji Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_201
+    name: Fiji Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_202
+    name: Fiji Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_203
+    name: Fiji Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_204
+    name: Fiji Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_205
+    name: Fiji Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_206
+    name: Fiji Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_207
+    name: Fiji Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_208
+    name: Fiji Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_209
+    name: Fiji Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_210
+    name: Fiji Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_211
+    name: Fiji Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_212
+    name: Fiji Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_213
+    name: Fiji Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_214
+    name: Fiji Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_215
+    name: Fiji Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_216
+    name: Fiji Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_217
+    name: Fiji Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_218
+    name: Fiji Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_219
+    name: Fiji Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_220
+    name: Fiji Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_221
+    name: Fiji Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_222
+    name: Fiji Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_223
+    name: Fiji Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_224
+    name: Fiji Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_225
+    name: Fiji Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_226
+    name: Fiji Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_227
+    name: Fiji Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_228
+    name: Fiji Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_229
+    name: Fiji Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_230
+    name: Fiji Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_231
+    name: Fiji Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_232
+    name: Fiji Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_233
+    name: Fiji Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_234
+    name: Fiji Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_235
+    name: Fiji Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_236
+    name: Fiji Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_237
+    name: Fiji Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_238
+    name: Fiji Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_239
+    name: Fiji Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_240
+    name: Fiji Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_241
+    name: Fiji Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_242
+    name: Fiji Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_243
+    name: Fiji Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_244
+    name: Fiji Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_245
+    name: Fiji Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_246
+    name: Fiji Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_247
+    name: Fiji Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_248
+    name: Fiji Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_249
+    name: Fiji Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_250
+    name: Fiji Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_251
+    name: Fiji Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fj_252
+    name: Fiji Skill 252
+    status: ACTIVE_SCAFFOLD
